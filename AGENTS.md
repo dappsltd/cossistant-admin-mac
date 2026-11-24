@@ -31,7 +31,6 @@
 
 ## Skills And Tools
 
-- Always use `swift-style` for Swift/SwiftUI edits.
 - Use `build-macos-apps:view-refactor` for scene/view restructuring.
 - Use `build-macos-apps:swiftui-patterns` for macOS SwiftUI composition decisions.
 - Use `build-macos-apps:appkit-interop` when touching file panels, clipboard, windows, or AppKit bridges.
